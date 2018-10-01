@@ -9,11 +9,10 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'C:\\Users\\Mikey\\OneDrive\\INV14\\Export\\Devlin K-Series.
 stp',
 /* time_stamp */ '2017-08-14T22:43:30-04:00',
-/* author */ ('Micahel Sokol'),
-/* organization */ ('Devlin'),
+/* author */ ('McMech'),
+/* organization */ ('Public'),
 /* preprocessor_version */ 'ST-DEVELOPER v15.6',
 /* originating_system */ 'Autodesk Inventor 2015',
 /* authorisation */ '');
